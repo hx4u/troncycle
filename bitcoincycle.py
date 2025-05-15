@@ -22,7 +22,7 @@ API_SECRET = os.getenv("API_SECRET")
 
 
 
-PAIR = "TRX-USDT"
+PAIR = "BTC-USDT"
 
 THRESHOLD = 0.05  # 5%
 
