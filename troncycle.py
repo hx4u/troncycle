@@ -24,7 +24,7 @@ API_SECRET = os.getenv("API_SECRET")
 
 PAIR = "TRX-USDT"
 
-THRESHOLD = 0.03  # 5%
+THRESHOLD = 0.05  # 5%
 
 TRX_AMOUNT = "100"
 
